@@ -12,19 +12,6 @@ p {
     font-size: 18px;
 }
 
-mb-5 {
-    background-color: var(--bg1);
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    margin: 30px auto 30px;
-    transition: all 0.2s ease;
-}
-
 header {
     padding: 145px 0;
     background: url(../img/pattern.png) var(--bg2);
